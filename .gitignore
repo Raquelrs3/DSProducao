@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Projeto ignore
+
+Professor/
+rossmann-telegram-api/
+webapp/
+.git/
+install/
